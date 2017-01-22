@@ -1,0 +1,23 @@
+ReadBlurbs          read blurbs
+ReadBlurbs          read me new blurbs
+ReadBlurbs          read new blurbs
+ReadBlurbs          read trending blurbs
+
+ReadBlurbs          read posts
+ReadBlurbs          read me new posts
+ReadBlurbs          read new posts
+ReadBlurbs          read trending posts
+
+
+RequestPostBlurb    post blurb
+RequestPostBlurb    post new blurb
+RequestPostBlurb    post a blurb
+RequestPostBlurb    post a new blurb
+
+RequestPostBlurb    post post
+RequestPostBlurb    post new post
+RequestPostBlurb    post a post
+RequestPostBlurb    post a new post
+
+
+PostBlurb           {EXAMPLES_OF_BLURBS}

@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "intent": "ReadBlurbs"
+    },
+    {
+      "intent": "RequestPostBlurb"
+    },
+    {
+      "intent": "PostBlurb",
+      "slots": [
+        {
+          "name": "Blurb",
+          "type": "EXAMPLES_OF_BLURBS"
+        }
+      ]
+    }
+  ]
+}
